@@ -3,5 +3,9 @@
 { "id" : 1,"name" : "asu","salary" : 12000,"job" : "java" },
 { "id" : 2,"name" : "sambit","salary" : 22000,"job" : "javaScript" },
 { "id" : 3,"name" : "jaga","salary" : 52000,"job" : "Angular" },
-{ "id" : 4,"name" : "pabi","salary" : 21000,"job" : "html" }]  
+{ "id" : 4,"name" : "pabi","salary" : 21000,"job" : "html" },
+{ "id" : 5,"name" : "akash","salary" : 55555,"job" : "java" },
+{ "id" : 6,"name" : "pintu","salary" : 6666,"job" : "javaScript" },
+{ "id" : 7,"name" : "kanhu","salary" : 67890,"job" : "Angular" },
+{ "id" : 8,"name" : "xxx","salary" : 21000,"job" : "html" }]  
 }
