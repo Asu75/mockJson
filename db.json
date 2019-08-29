@@ -1,6 +1,6 @@
 {  
 "Employee" : [
 { "id" : 1,"name" : "asu","salary" : 12000,"job" : "java" },
-{ "id" : 2,"name" : "sambit","salary" : 22000,"job" : "javaScript" },
+{ "id" : 2,"name" : "sambit","salary" : 22000,"job" : "javaScript" }
 ]  
 }
